@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x41aB91b53BB74eF11844FFca4B2Bd958b248bF1c",
+  "SCAN_LINK": "https://polygonscan.com/address/0x41ab91b53bb74ef11844ffca4b2bd958b248bf1c",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "GUMBALLS",
+  "SYMBOL": "GUMBALL",
+  "MAX_SUPPLY": 1111,
+  "WEI_COST": 0,
+  "DISPLAY_COST": "0.00",
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/mad-monkey-nft",
+  "SHOW_BACKGROUND": false
+}
