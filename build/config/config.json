@@ -1,16 +1,16 @@
 {
-  "CONTRACT_ADDRESS": "0x156Cb05E23EE4eD2915256C2269E71740D583673",
-  "SCAN_LINK": "https://polygonscan.com/address/0x156cb05e23ee4ed2915256c2269e71740d583673",
+  "CONTRACT_ADDRESS": "0x83f249336b0Ba940444643083D683DcB6bc58141",
+  "SCAN_LINK": "https://polygonscan.com/address/0x83f249336b0Ba940444643083D683DcB6bc58141",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "MAD Monkey Magazine NFT",
-  "SYMBOL": "MAD Monkey",
-  "MAX_SUPPLY": 410,
-  "WEI_COST": 10000000000000000000,
-  "DISPLAY_COST": 10,
+  "NFT_NAME": "GUMBALLS",
+  "SYMBOL": "GNFT",
+  "MAX_SUPPLY": 1111,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0.00,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/mad-monkey-nft",
